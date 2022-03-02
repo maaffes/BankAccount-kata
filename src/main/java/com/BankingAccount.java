@@ -43,7 +43,7 @@ public class BankingAccount {
 
 	public static List<String> getHistoryOperation( Account account) {
 		
-;		return account.getHistory();
+		return account.getHistory();
 	}
 
 }
